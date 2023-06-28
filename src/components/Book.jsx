@@ -10,12 +10,11 @@ import favoriteIcon from '../favorite-icon.svg';
 import favoriteFullIcon from '../favorite-full-icon.svg';
 import DeleteModal from "../components/DeleteModal";
 import { Fragment } from "react";
-import { useRef } from "react";
+
 
 export const Book = (props) => {
     const { id, image, title, year, price, description, favourite } = props.book;
 
-    const favouriteId = useRef();
     const isFavourite = props.favouriteData?.find(res => res.id === props.book.id);
 
     const handleAddfavourites = async () => {
