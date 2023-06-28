@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "email": "natia@gmail.com",
+      "password": "$2a$10$kBCAqRCyS0LkbT6He3tQZe0gOe0Uff61QxqdY6lIY7mIl.j1lMJQO",
+      "userName": "natia",
+      "firstName": "Natia",
+      "lastName": "Shanidze",
+      "phone": "5144444451",
+      "repeatPassword": "123123",
+      "id": 1
+    },
+    {
+      "email": "nat@gmail.com",
+      "password": "$2a$10$XHBcxVY77DM1.BaNtqLhl.jk3TbCT//INU1sZSMGayhBQJWtsw4nO",
+      "userName": "nat",
+      "firstName": "nat",
+      "lastName": "shano",
+      "phone": "123762899",
+      "repeatPassword": "123123Nat",
+      "id": 2
+    }
+  ],
+  "favourites": [
+    {
+      "id": 1,
+      "image": "https://images-us.bookshop.org/ingram/9798885903691.jpg?height=500&v=v2",
+      "title": "Changing Tides: Poetry of Love, Loss and New Life",
+      "description": "In this time of universal loss, hear from one who has survived. Hoover is an emerging voice that you will want to hear. In the personal, private questioning, we are often without words or a way forward. voiced Hoover Changing Tides gives words to those who live through disorienting, unimaginable loss. In this vulnerable, yet powerfully hopeful collection of freestyle poetry and ocean photography, Hoover brings you on her journey to process and make room for the death of her son Kody. By comparing and contrasting her experience, with the natural rhythms of the ocean, she finds faith that helps her to survive the unthinkable and find joy. I pray that Changing Tides will let others know they are not alone and help them find their way. Hoover shared. A revealing look into grief for those who walk along side of the bereaved and victims of trauma.",
+      "year": "2021",
+      "price": "8.99",
+      "pages": 80,
+      "language": "English",
+      "publisher": "Palmetto Publishing",
+      "aboutAuthor": "Katy Hoover is a registered nurse, mother of five, and grandmother of six. She has worked with human trafficking survivors as well as abused women and children. She loves spending time in nature, especially near a river, lake or the ocean. She also enjoys participating in poetry readings. She currently lives in Ventura, California with her sweetest friend and their dog. Changing Tides is her first book."
+    },
+    {
+      "id": 10,
+      "image": "https://images-us.bookshop.org/ingram/9781335475176.jpg?height=500&v=v2-bdc966ab00b49544332ba5c3495a9f66",
+      "title": "123",
+      "description": "In this time of universal loss, hear from one who has survived. Hoover is an emerging voice that you will want to hear. In the personal, private questioning, we are often without words or a way forward. voiced Hoover Changing Tides gives words to those who live through disorienting, unimaginable loss. In this vulnerable, yet powerfully hopeful collection of freestyle poetry and ocean photography, Hoover brings you on her journey to process and make room for the death of her son Kody. By comparing and contrasting her experience, with the natural rhythms of the ocean, she finds faith that helps her to survive the unthinkable and find joy. I pray that Changing Tides will let others know they are not alone and help them find their way. Hoover shared. A revealing look into grief for those who walk along side of the bereaved and victims of trauma.",
+      "year": "2021",
+      "price": "18.99",
+      "pages": 304,
+      "language": "English",
+      "publisher": "Palmetto Publishing",
+      "aboutAuthor": "Katy Hoover is a registered nurse, mother of five, and grandmother of six. She has worked with human trafficking survivors as well as abused women and children. She loves spending time in nature, especially near a river, lake or the ocean. She also enjoys participating in poetry readings. She currently lives in Ventura, California with her sweetest friend and their dog. Changing Tides is her first book."
+    },
+    {
+      "id": 6,
+      "image": "https://images-us.bookshop.org/ingram/978006311435…?height=500&v=v2-fa30c07ac9e1fa9a642d2f3a6c7f0cb7",
+      "title": "Maribel's Year",
+      "description": "Celebrate the special connection between father and daughter in this gorgeously evocative picture book, recounting the year a little girl and her mother spend in America while waiting for her father to join them from the Philippines. From acclaimed author Michelle Sterling and illustrator Sarah Gonzales, a poignant story perfect for fans of Joanna Ho, Linda Sue Park, and Matt De La Peña. New country, new school, new friends. A lot can happen in a single year. But one thing's for certain: Maribel won't forget her Papa, even when he's 8,000 miles away in the Philippines. After all, Papa is all around. He is the memory of feeding koi fish in their pond every morning. He is the constellation map as Maribel dreams of showing him her new world. He is the packages and letters sent back and forth. He is everywhere except the place he's wanted the most. But the bond between Maribel and Papa transcends oceans. So as the snow melts and turns to rain, as flowers blossom and welcome sun-kissed days, and as the leaves start to change and snow begins to fall once more, can Maribel wait just a little bit longer?",
+      "year": "2022",
+      "price": "18.59",
+      "pages": 43,
+      "language": "English",
+      "publisher": "Katherine Tegen Books",
+      "aboutAuthor": "Michelle Sterling is an author, photographer, and speech-language pathologist. She lives in Southern California, where her summers are filled with reading, homemade ice cream, and long, golden hours at the park. When Lola Visits is her first picture book. Find Michelle online at www.averyandaugustine.com."
+    },
+    {
+      "id": 2,
+      "image": "https://images-us.bookshop.org/ingram/9798885903691.jpg?height=500&v=v2",
+      "title": "Changing Tides: Poetry of Love, Loss and New Life",
+      "description": "In this time of universal loss, hear from one who has survived. Hoover is an emerging voice that you will want to hear. In the personal, private questioning, we are often without words or a way forward. voiced Hoover Changing Tides gives words to those who live through disorienting, unimaginable loss. In this vulnerable, yet powerfully hopeful collection of freestyle poetry and ocean photography, Hoover brings you on her journey to process and make room for the death of her son Kody. By comparing and contrasting her experience, with the natural rhythms of the ocean, she finds faith that helps her to survive the unthinkable and find joy. I pray that Changing Tides will let others know they are not alone and help them find their way. Hoover shared. A revealing look into grief for those who walk along side of the bereaved and victims of trauma.",
+      "year": "2021",
+      "price": "8.99",
+      "pages": 80,
+      "language": "English",
+      "publisher": "Palmetto Publishing",
+      "aboutAuthor": "Katy Hoover is a registered nurse, mother of five, and grandmother of six. She has worked with human trafficking survivors as well as abused women and children. She loves spending time in nature, especially near a river, lake or the ocean. She also enjoys participating in poetry readings. She currently lives in Ventura, California with her sweetest friend and their dog. Changing Tides is her first book."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "image": "https://images-us.bookshop.org/ingram/9780593183939.jpg?height=500&v=v2-2367afd1b4b9f0b61c1bd984f0c26919",
+      "title": "The Music of Bees",
+      "description": "Forty-four-year-old Alice Holtzman is stuck in a dead-end job, bereft of family, and now reeling from the unexpected death of her husband. Alice has begun having panic attacks whenever she thinks about how her life has not turned out the way she dreamed. Even the beloved honeybees she raises in her spare time are not helping her feel better these days. In the grip of a panic attack, she nearly collides with Jake--a troubled, paraplegic teenager with the tallest mohawk in Hood River County--while carrying 120,000 honeybees in the back of her pickup truck. Charmed by Jake's sincere interest in her bees and seeking to rescue him from his toxic home life, Alice surprises herself by inviting Jake to her farm. And then there's Harry, a twenty-four-year-old with debilitating social anxiety who is desperate for work. When he applies to Alice's ad for part-time farm help, he's shocked to find himself hired. As an unexpected friendship blossoms among Alice, Jake, and Harry, a nefarious pesticide company moves to town, threatening the local honeybee population and illuminating deep-seated corruption in the community. The unlikely trio must unite for the sake of the bees--and in the process, they just might forge a new future for themselves. Beautifully moving, warm, and uplifting, The Music of Bees is about the power of friendship, compassion in the face of loss, and finding the courage to start over (at any age) when things don't turn out the way you expect.",
+      "year": "2022",
+      "price": "15.99",
+      "pages": 352,
+      "language": "English",
+      "publisher": "Dutton",
+      "aboutAuthor": "Eileen Garvin is a beekeeper and writer living in Hood River, Oregon. Her memoir, How to Be a Sister, was published in 2010. The Music of Bees is her debut novel."
+    },
+    {
+      "id": 2,
+      "image": "https://images-us.bookshop.org/ingram/9798885903691.jpg?height=500&v=v2",
+      "title": "Changing Tides: Poetry of Love, Loss and New Life",
+      "description": "In this time of universal loss, hear from one who has survived. Hoover is an emerging voice that you will want to hear. In the personal, private questioning, we are often without words or a way forward. voiced Hoover Changing Tides gives words to those who live through disorienting, unimaginable loss. In this vulnerable, yet powerfully hopeful collection of freestyle poetry and ocean photography, Hoover brings you on her journey to process and make room for the death of her son Kody. By comparing and contrasting her experience, with the natural rhythms of the ocean, she finds faith that helps her to survive the unthinkable and find joy. I pray that Changing Tides will let others know they are not alone and help them find their way. Hoover shared. A revealing look into grief for those who walk along side of the bereaved and victims of trauma.",
+      "year": "2021",
+      "price": "8.99",
+      "pages": 80,
+      "language": "English",
+      "publisher": "Palmetto Publishing",
+      "aboutAuthor": "Katy Hoover is a registered nurse, mother of five, and grandmother of six. She has worked with human trafficking survivors as well as abused women and children. She loves spending time in nature, especially near a river, lake or the ocean. She also enjoys participating in poetry readings. She currently lives in Ventura, California with her sweetest friend and their dog. Changing Tides is her first book."
+    },
+    {
+      "id": 3,
+      "image": "https://images-us.bookshop.org/ingram/9780807040256.jpg?height=500&v=v2",
+      "title": "Harnessing Grief: A Mother's Quest for Meaning and Miracles",
+      "description": "The inspiring story of a mother who took unimaginable tragedy and used her grief as a force to do good by transforming the lives of others. When Maria Kefalas's daughter Calliope was diagnosed with a degenerative, uncurable genetic disease, the last thing Maria expected to discover in herself was a superpower. She and her husband, Pat, were head over heels in love with their youngest daughter, whose spirit, dancing eyes, and appetite for life captured the best of each of them. When they learned that Cal had MLD (metachromatic leukodystrophy), their world was shattered. But as she spent time listening to and learning from Cal, Maria developed the superpower of grief. It made her a fearless warrior for her daughter. And it gave her voice a bell-like clarity--poignant and funny all at once. This superpower of grief also revealed a miracle--not the conventional sort that fuels the prayers of friends and strangers but a realization that, in order to save themselves, Maria and Pat would need to find a way to save others. And so, with their two older children, they set out to raise money so that they, in their son PJ's words, could find a cure for Cal's disease.  They had no way of knowing that a research team in Italy was closing in on an effective gene therapy for MLD. Though the therapy came too late to help Cal, this news would be the start of an unexpected journey that would introduce Maria and her family to world-famous scientists, brilliant doctors, biotech CEOs, a Hall of Fame NFL quarterback, and a wise nun, and it would also involve selling 50 thousand cupcakes. They would travel to the FDA, the NIH, and the halls of Congress in search of a cure that would never save their child. And their lives would become inextricably intertwined with the families of 13 children whose lives would be transformed by the biggest medical breakthrough in a generation. A memoir about heartbreak that is also about joy, Harnessing Grief is both unsparing and generous. Steeped in love, it is a story about possibility.",
+      "year": "2021",
+      "price": "23.20",
+      "pages": 200,
+      "language": "English",
+      "publisher": "Beacon Press",
+      "aboutAuthor": "Maria J. Kefalas is a professor at Saint Joseph's University in Philadelphia and the author or coauthor of three books, including Hollowing Out the Middle, Working-Class Heroes, and Promises I Can Keep. Dr. Kefalas is also an advocate, a philanthropist, a blogger, and the cofounder of the Calliope Joy Foundation, which in 2015 helped fund the nation's first Leukodystrophy Center of Excellence at the Children's Hospital of Philadelphia and has supported families receiving treatment for MLD. She lives with her 3 children, Camille, PJ, and Cal, and her dog, Brody, outside Philadelphia. All royalties for the book will be donated to the Cal's Cupcakes Foundation. Connect with her at mariakefalas.com and on Twitter (@ProfKefalas)."
+    },
+    {
+      "id": 4,
+      "image": "https://images-us.bookshop.org/ingram/9781335425751.jpg?height=500&v=v2-5cd05ffc3a5360ba14c1c94a38e2a942",
+      "title": "Beach Wedding",
+      "description": "Hamptons sand... Hamptons money... Hamptons murder... When Terry Rourke is invited to the spare-no-expense beach wedding of his hedge fund manager brother, he thinks that his biggest worry will be flubbing the champagne toast. But this isn't the first time Terry has been to the Hamptons. As the designer tuxedos are laid out and the flowers arranged along the glittering surf, Terry can't help but take another look at a decades-old murder trial that rocked the very foundations of the town--and his family. He soon learns that digging up billion-dollar sand can be a very dangerous activity. The kind of danger that can very quickly turn even the most beautiful beach wedding into a wake.",
+      "year": "2022",
+      "price": "26.03",
+      "pages": 352,
+      "language": "English",
+      "publisher": "Hanover Square Press",
+      "aboutAuthor": "Michael Ledwidge is the writer of many novels, the last dozen being New York Times bestsellers cowritten with one of the world's bestselling authors, James Patterson. With twenty million copies in print, their Michael Bennett series is the highest-selling New York City detective series of all time. One of their novels, Zoo, became a three-season CBS television series. He lives in Connecticut."
+    },
+    {
+      "id": 5,
+      "image": "https://images-us.bookshop.org/ingram/9781909263994.jpg?height=500&v=v2",
+      "title": "The Journey",
+      "description": "With haunting echoes of the current refugee crisis this beautifully illustrated book explores the unimaginable decisions made as a family leave their home and everything they know to escape the turmoil and tragedy brought by war. This book will stay with you long after the last page is turned. From the author: The Journey is actually a story about many journeys, and it began with the story of two girls I met in a refugee center in Italy. After meeting them I realized that behind their journey lay something very powerful. So I began collecting more stories of migration and interviewing many people from many different countries. A few months later, in September 2014, when I started studying a Master of Arts in Illustration at the Academy of Lucerne, I knew I wanted to create a book about these true stories. Almost every day on the news we hear the terms migrants and refugees but we rarely ever speak to or hear the personal journeys that they have had to take. This book is a collage of all those personal stories and the incredible strength of the people within them.",
+      "year": "2016",
+      "price": "16.73",
+      "pages": 48,
+      "language": "English",
+      "publisher": "Nobrow Press",
+      "aboutAuthor": "Francesca Sanna is an Italian illustrator and graphic designer who moved to Switzerland to follow their dream to work as an illustrator. They graduated in 2015 from the Lucerne School of Art and Design with a Master of Design with focus on Illustration. The Journey is their first picture book."
+    },
+    {
+      "id": 6,
+      "image": "https://images-us.bookshop.org/ingram/978006311435…?height=500&v=v2-fa30c07ac9e1fa9a642d2f3a6c7f0cb7",
+      "title": "Maribel's Year",
+      "description": "Celebrate the special connection between father and daughter in this gorgeously evocative picture book, recounting the year a little girl and her mother spend in America while waiting for her father to join them from the Philippines. From acclaimed author Michelle Sterling and illustrator Sarah Gonzales, a poignant story perfect for fans of Joanna Ho, Linda Sue Park, and Matt De La Peña. New country, new school, new friends. A lot can happen in a single year. But one thing's for certain: Maribel won't forget her Papa, even when he's 8,000 miles away in the Philippines. After all, Papa is all around. He is the memory of feeding koi fish in their pond every morning. He is the constellation map as Maribel dreams of showing him her new world. He is the packages and letters sent back and forth. He is everywhere except the place he's wanted the most. But the bond between Maribel and Papa transcends oceans. So as the snow melts and turns to rain, as flowers blossom and welcome sun-kissed days, and as the leaves start to change and snow begins to fall once more, can Maribel wait just a little bit longer?",
+      "year": "2022",
+      "price": "18.59",
+      "pages": 43,
+      "language": "English",
+      "publisher": "Katherine Tegen Books",
+      "aboutAuthor": "Michelle Sterling is an author, photographer, and speech-language pathologist. She lives in Southern California, where her summers are filled with reading, homemade ice cream, and long, golden hours at the park. When Lola Visits is her first picture book. Find Michelle online at www.averyandaugustine.com."
+    },
+    {
+      "id": 7,
+      "image": "https://images-us.bookshop.org/ingram/9780316247825.jpg?height=500&v=v2",
+      "title": "The Red Pencil",
+      "description": "The powerful story of one girl's triumphant journey, inspired by true tales of life in Sudan -- now in paperback. Life in Amira's peaceful Sudanese village is shattered when Janjaweed attackers arrive, unleashing unspeakable horrors. After losing nearly everything, Amira needs to find the strength to make the long journey on foot to safety at a refugee camp. She begins to lose hope, until the gift of a simple red pencil opens her mind -- and all kinds of possibilities.",
+      "year": "2021",
+      "price": "8.36",
+      "pages": 368,
+      "language": "English",
+      "publisher": "Little, Brown Books for Young Readers",
+      "aboutAuthor": "Andrea Davis Pinkney is the New York Times bestselling and award-winning author of more than 20 books for children, including Bird in a Box and several collaborations with her husband Brian Pinkney, including Sit -In, Hand in Hand, and Martin & Mahalia. She lives with her family in Brooklyn, NY. Shane W. Evans is the illustrator of many books for young readers, including Underground: Finding the Light to Freedom, which won a Coretta Scott King award, and Nobody Gonna Turn Me Round, which was nominated for an NAACP Image Award. His website is ShaneEvans.com."
+    },
+    {
+      "id": 8,
+      "image": "https://images-us.bookshop.org/ingram/9781571313560.jpg?height=500&v=v2-42c6c6e6d60250383666edf501549788",
+      "title": "Braiding Sweetgrass",
+      "description": "A New York Times Bestseller A Washington Post Bestseller Named a Best Essay Collection of the Decade by Literary Hub As a botanist, Robin Wall Kimmerer has been trained to ask questions of nature with the tools of science. As a member of the Citizen Potawatomi Nation, she embraces the notion that plants and animals are our oldest teachers. In Braiding Sweetgrass, Kimmerer brings these two lenses of knowledge together to take us on a journey that is every bit as mythic as it is scientific, as sacred as it is historical, as clever as it is wise (Elizabeth Gilbert). Drawing on her life as an indigenous scientist, and as a woman, Kimmerer shows how other living beings--asters and goldenrod, strawberries and squash, salamanders, algae, and sweetgrass--offer us gifts and lessons, even if we've forgotten how to hear their voices. In reflections that range from the creation of Turtle Island to the forces that threaten its flourishing today, she circles toward a central argument: that the awakening of ecological consciousness requires the acknowledgment and celebration of our reciprocal relationship with the rest of the living world. For only when we can hear the languages of other beings will we be capable of understanding the generosity of the earth, and learn to give our own gifts in return.",
+      "year": "2015",
+      "price": "18.60",
+      "pages": 408,
+      "language": "English",
+      "publisher": "Milkweed Editions",
+      "aboutAuthor": "Robin Wall Kimmerer is a mother, scientist, decorated professor, and enrolled member of the Citizen Potawatomi Nation. She is the author of the New York Times bestselling collection of essays Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants as well as Gathering Moss: A Natural and Cultural History of Mosses. Kimmerer is a 2022 MacArthur Fellow. She lives in Syracuse, New York, where she is a SUNY Distinguished Teaching Professor of Environmental Biology, and the founder and director of the Center for Native Peoples and the Environment."
+    },
+    {
+      "id": 9,
+      "image": "https://images-us.bookshop.org/ingram/9780618249060.jpg?height=500&v=v2-a1eda79b2cfdb2ef6615efb8a4f1aceb",
+      "title": "Silent Spring",
+      "description": "First published by Houghton Mifflin in 1962, Silent Spring alerted a large audience to the environmental and human dangers of indiscriminate use of pesticides, spurring revolutionary changes in the laws affecting our air, land, and water. Silent Spring became a runaway bestseller, with international reverberations . . . [It is] well crafted, fearless and succinct . . . Even if she had not inspired a generation of activists, Carson would prevail as one of the greatest nature writers in American letters (Peter Matthiessen, for Time's 100 Most Influential People of the Century). This fortieth anniversary edition celebrates Rachel Carson's watershed book with a new introduction by the author and activist Terry Tempest Williams and a new afterword by the acclaimed Rachel Carson biographer Linda Lear, who tells the story of Carson's courageous defense of her truths in the face of ruthless assault from the chemical industry in the year following the publication of Silent Spring and before her untimely death in 1964.",
+      "year": "2022",
+      "price": "16.73",
+      "pages": 400,
+      "language": "English",
+      "publisher": "Mariner Books Classics",
+      "aboutAuthor": "RACHEL CARSON, 1907-1964, spent a good deal of her professional life as a marine biologist with the U.S. Fish and Wildlife Service. Her first three books -- Under the Sea-Wind, The Sea Around Us, and The Edge of the Sea -- established her reputation as a first-rate writer on the natural world."
+    },
+    {
+      "id": 10,
+      "image": "https://images-us.bookshop.org/ingram/9781335475176.jpg?height=500&v=v2-bdc966ab00b49544332ba5c3495a9f66",
+      "title": "123",
+      "description": "In this time of universal loss, hear from one who has survived. Hoover is an emerging voice that you will want to hear. In the personal, private questioning, we are often without words or a way forward. voiced Hoover Changing Tides gives words to those who live through disorienting, unimaginable loss. In this vulnerable, yet powerfully hopeful collection of freestyle poetry and ocean photography, Hoover brings you on her journey to process and make room for the death of her son Kody. By comparing and contrasting her experience, with the natural rhythms of the ocean, she finds faith that helps her to survive the unthinkable and find joy. I pray that Changing Tides will let others know they are not alone and help them find their way. Hoover shared. A revealing look into grief for those who walk along side of the bereaved and victims of trauma.",
+      "year": "2021",
+      "price": "18.99",
+      "pages": 304,
+      "language": "English",
+      "publisher": "Palmetto Publishing",
+      "aboutAuthor": "Katy Hoover is a registered nurse, mother of five, and grandmother of six. She has worked with human trafficking survivors as well as abused women and children. She loves spending time in nature, especially near a river, lake or the ocean. She also enjoys participating in poetry readings. She currently lives in Ventura, California with her sweetest friend and their dog. Changing Tides is her first book."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+.App {
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.page-title{
+  text-transform: uppercase;
+  color: #2c2a3b;
+}
+.header-part{
+  background-color: #eee;
+  padding: 20px 0;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header > div{
+  width: 33%;
+}
+.logo{
+  text-align: left;
+}
+.main-menu ul{
+  display: flex;
+}
+.main-menu li{
+  list-style: none;
+  margin: 0 10px;
+}
+.main-menu li a{
+  text-decoration: none;
+  color: #282c34;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.header a:hover{
+  color: #492070;
+}
+.auth-block{
+  display: flex;
+  justify-content: flex-end;
+}
+.auth-block a{
+  text-decoration: none;
+  color: #282c34;
+  font-size: 16px;
+  margin-left: 5%;
+}
+.auth-block .user{
+  font-size: 14px;
+  color: #282c34;
+}
+.custom-link{
+  color: #1976d2;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 0.8125rem;
+}
+.custom-link.auth{
+  margin-top: 3%;
+  display: inline-block;
+  font-size: 1rem;
+}
+.custom-link:hover{
+  text-decoration: none;
+}
+.form-error{
+  color: #d32f2f;
+  margin-bottom: 3%;
+}
+.book-action{
+  justify-content: space-around;
+}
+@media (max-width: 800px) {
+  .header{
+    flex-direction: column;
+  }
+  .header > div{
+    width: auto;
+  }
+  .item-list{
+    flex-direction: column !important;
+    margin: 0 !important;
+    width: 100% !important;
+  }
+  .item-list > div{
+    max-width: 100% !important;
+    padding: 0 0 30px 0 !important;
+  }
+}
